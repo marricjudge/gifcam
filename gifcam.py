@@ -180,7 +180,6 @@ run()
 # GITCORE: https://packages.debian.org/sid/git-core 23.01.2018
 # RASPBIAN OS: https://www.raspbian.org/ + https://www.raspberrypi.org/downloads/noobs/ 23.01.2018
 # PiCamera: https://www.raspberrypi.org/products/camera-module-v2/ + https://projects.raspberrypi.org/en/projects/getting-started-with-picamera 23.01.2018
-# any many other helpful forums
 #
 # Logo:
 # Icon made by Vignesh Oviyan from www.flaticon.com (28.01.2018)
